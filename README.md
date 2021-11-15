@@ -40,7 +40,10 @@
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykweon)](https://github.com/anuraghazra/github-readme-stats)
+## Most Used Languages  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykweon&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeykweon)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=jaeykweon&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
