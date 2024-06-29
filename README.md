@@ -1,25 +1,19 @@
-##  My Skill Set
+##  Main Skill Set
 <table>
   <tr>
     <td valign="top" width="25%">
-      
+
 ### Language
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 </td>
 
 <td valign="top" width="25%">
-      
-### Framework  
+
+### Framework
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /> 
 </div>
 </td>
 <td valign="top" width="25%">
@@ -27,8 +21,6 @@
 ### DB
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
 </td>
@@ -37,18 +29,17 @@
 ### DevOps
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 </div>
 </td>
 </tr>
-</table>  
-
+</table>
 <br/>  
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=jaeykweon&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+## Projects
 
-## Coding Time  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jaeykweon&layout=compact&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+| title                                                                                                        | tag                                | completed |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------|-----------|
+| [도서 ‘만들면서 배우는 클린 아키텍처’ 코틀린 버전](https://github.com/jaeykweon/clean-architecture-kotlin)                       | java to kotlin, clean architecture | v         |
+| [강의 ‘실전! 스프링부트 상품-주문 API 개발로 알아보는 TDD 강의’ 코틀린 버전](https://github.com/jaeykweon/product-order-service-kotlin) | java to kotlin, TDD                | v         |
+| [도서 '코틀린 디자인 패턴' 한국어 버전](https://github.com/jaeykweon/-kor-Kotlin-Design-Patterns-and-Best-Practices)          | design pattern                     |           |
