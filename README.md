@@ -5,7 +5,7 @@
 
 ### Language
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" height="80" />  
 </div>
 </td>
 
@@ -13,33 +13,33 @@
 
 ### Framework
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /> 
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" height="80" /> 
 </div>
 </td>
 <td valign="top" width="25%">
 
 ### DB
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" />  
 </div>
 </td>
 <td valign="top" width="25%">
 
 ### DevOps
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="80" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" height="80" />  
 </div>
 </td>
 </tr>
 </table>
 <br/>  
 
-## Projects
+## 주요 활동
 
-| title                                                                                                        | tag                                | completed |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------|-----------|
-| [도서 ‘만들면서 배우는 클린 아키텍처’ 코틀린 버전](https://github.com/jaeykweon/clean-architecture-kotlin)                       | java to kotlin, clean architecture | v         |
-| [강의 ‘실전! 스프링부트 상품-주문 API 개발로 알아보는 TDD 강의’ 코틀린 버전](https://github.com/jaeykweon/product-order-service-kotlin) | java to kotlin, TDD                | v         |
-| [도서 '코틀린 디자인 패턴' 한국어 버전](https://github.com/jaeykweon/-kor-Kotlin-Design-Patterns-and-Best-Practices)          | design pattern                     |           |
+| 카테고리 | 이름 | 내용 | 날짜 |
+|---|---|---|---|
+| 오픈소스 개발 | [jpa-auto-enum-string](https://github.com/jaeykweon/jpa-auto-enum-string) | JPA enum 필드에 `@Enumerated(EnumType.STRING)` 을 자동으로 적용해주는 라이브러리 | 2026.05 |
+| 개인 프로젝트 | [spring-batch-case-study](https://github.com/jaeykweon/spring-batch-case-study) | 각 상황별 특정 이슈(처리량이 많아짐 등)가 발생을 가정하고, 성능 개선 | 2026.03 |
+| 오픈소스 기여 | [line/kotlin-jdsl](https://github.com/line/kotlin-jdsl) | `WhereDsl`에 null 허용 및 `whereAnd()`, `whereOr()` 메서드 추가 | 2022.08 |
